@@ -32,6 +32,7 @@ Olá, eu sou a Danielle Pereira.
   <a href="https://instagram.com/daniellesilveira1986" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:danibaprj86@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/danielle-baptista-da-silveira-hernandez-pereira-50812835" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaniellePereiraRJ/output/github-contribuition-grid-snake-dark.svg">
@@ -40,4 +41,4 @@ Olá, eu sou a Danielle Pereira.
 <picture>
   
   
-</div>
+
