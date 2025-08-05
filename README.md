@@ -35,9 +35,9 @@ Olá, eu sou a Danielle Pereira.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaniellePereiraRJ/output/github-contribuition-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: loght)" srcset="https://raw.githubusercontent.com/DaniellePereiraRJ/output/github-contribuition-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaniellePereiraRJ/output/github-contribuition-grid-snake.svg">
   <img alt="github contribuition grid snake animation" src="https://raw.githubusercontent.com/DaniellePereiraRJ/DaniellePereiraRJ/output/github-contribuition-gri.snake.svg">
-
+<picture>
   
   
 </div>
